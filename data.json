@@ -1,0 +1,4608 @@
+{
+  "payload": {
+    "importInProgress": false,
+    "date": 20240917,
+    "nextDate": 20240918,
+    "showingNextDate": false,
+    "rows": [
+      {
+        "data": [
+          "3",
+          "06a, 06b, 06c",
+          "FR1",
+          "216",
+          "<span class=\"substMonitorSubstElem\">Gri</span> (<span class=\"cancelStyle\">Shü</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "06a"
+      },
+      {
+        "data": [
+          "4",
+          "06a, 06b, 06c",
+          "FR1",
+          "216",
+          "<span class=\"substMonitorSubstElem\">Krs</span> (<span class=\"cancelStyle\">Shü</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "06a"
+      },
+      {
+        "data": [
+          "3",
+          "06a, 06b, 06c",
+          "FR1",
+          "216",
+          "<span class=\"substMonitorSubstElem\">Gri</span> (<span class=\"cancelStyle\">Shü</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "06b"
+      },
+      {
+        "data": [
+          "4",
+          "06a, 06b, 06c",
+          "FR1",
+          "216",
+          "<span class=\"substMonitorSubstElem\">Krs</span> (<span class=\"cancelStyle\">Shü</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "06b"
+      },
+      {
+        "data": [
+          "3",
+          "06a, 06b, 06c",
+          "FR1",
+          "216",
+          "<span class=\"substMonitorSubstElem\">Gri</span> (<span class=\"cancelStyle\">Shü</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "06c"
+      },
+      {
+        "data": [
+          "4",
+          "06a, 06b, 06c",
+          "FR1",
+          "216",
+          "<span class=\"substMonitorSubstElem\">Krs</span> (<span class=\"cancelStyle\">Shü</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "06c"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07d",
+          "RE3",
+          "121",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07a"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07c, 07d, 07oe",
+          "RK1",
+          "237",
+          "Die",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07a"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07d",
+          "RE3",
+          "121",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07b"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07c, 07d, 07oe",
+          "RK1",
+          "237",
+          "Die",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07b"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07b, 07c, 07oe",
+          "RE2",
+          "220",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07b"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07b, 07c",
+          "WN1",
+          "218",
+          "<span class=\"substMonitorSubstElem\">Hac</span> (<span class=\"cancelStyle\">Lor</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "07b"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07c, 07d, 07oe",
+          "RK1",
+          "237",
+          "Die",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07c"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07b, 07c, 07oe",
+          "RE2",
+          "220",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07c"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07b, 07c",
+          "WN1",
+          "218",
+          "<span class=\"substMonitorSubstElem\">Hac</span> (<span class=\"cancelStyle\">Lor</span>)",
+          "",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "07c"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07d",
+          "RE3",
+          "121",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07d"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07c, 07d, 07oe",
+          "RK1",
+          "237",
+          "Die",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07d"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "07oe",
+          "MA",
+          "<span class=\"substMonitorSubstElem\">S224</span> (S133B)",
+          "Moh",
+          "Verlegung von 16.9. / 11:30",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "07oe"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07a, 07b, 07c, 07d, 07oe",
+          "RK1",
+          "237",
+          "Die",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07oe"
+      },
+      {
+        "data": [
+          "5 - 6",
+          "07b, 07c, 07oe",
+          "RE2",
+          "220",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "07oe"
+      },
+      {
+        "data": [
+          "6",
+          "08c",
+          "MA",
+          "120",
+          "Slt",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "08c"
+      },
+      {
+        "data": [
+          "3",
+          "09b",
+          "MA",
+          "239",
+          "Mic",
+          "Verlegung nach 17.9. / 07:40",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "09b"
+      },
+      {
+        "data": [
+          "3",
+          "09b",
+          "INF",
+          "239",
+          "Mic",
+          "Verlegung von 17.9. / 07:40",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "09b"
+      },
+      {
+        "data": [
+          "7",
+          "09ku",
+          "MA",
+          "237",
+          "Mal",
+          "Verlegung nach 16.9. / 11:30",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "09ku"
+      },
+      {
+        "data": [
+          "7 - 8",
+          "10b",
+          "PW",
+          "Conti10",
+          "Pop",
+          "Verlegung nach 16.9. / 11:30",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "10b"
+      },
+      {
+        "data": [
+          "3",
+          "11a",
+          "SPO",
+          "<span class=\"substMonitorSubstElem\">Conti5</span> (TH1)",
+          "<span class=\"substMonitorSubstElem\">NN3</span> (<span class=\"cancelStyle\">Die</span>)",
+          "",
+          "Stillarbeit"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "11a"
+      },
+      {
+        "data": [
+          "4",
+          "11a",
+          "LA",
+          "<span class=\"substMonitorSubstElem\">Conti5</span> (TH1)",
+          "Smi",
+          "Verlegung von 17.9. / 11:30",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "11a"
+      },
+      {
+        "data": [
+          "5",
+          "11a",
+          "LA",
+          "Conti5",
+          "Smi",
+          "Verlegung nach 17.9. / 10:25",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "11a"
+      },
+      {
+        "data": [
+          "5",
+          "11a",
+          "EN",
+          "Conti5",
+          "Kab",
+          "Verlegung von 17.9. / 12:20",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "11a"
+      },
+      {
+        "data": [
+          "6",
+          "11a",
+          "EN",
+          "Conti5",
+          "Kab",
+          "Verlegung nach 17.9. / 11:30",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "11a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12a"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12b"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12c"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12d"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12e"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12f"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12g"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12h"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-wn1",
+          "218",
+          "Win",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ge3",
+          "219",
+          "Gri",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ma2",
+          "003",
+          "Bch",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-ds4",
+          "N03, RSaal",
+          "Kun",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-pw3",
+          "119",
+          "Bek",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-rk1",
+          "122",
+          "Sip",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.3-re1",
+          "120",
+          "Hoi",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ku1",
+          "N12",
+          "Bde",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-bi1",
+          "S131B",
+          "Nie",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ds3",
+          "N24a",
+          "Kab",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-de3",
+          "003",
+          "Pop",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "4",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "G3.6-ge1",
+          "119",
+          "Sut",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "7",
+          "12a, 12b, 12c, 12d, 12e, 12f, 12g, 12h, 12k",
+          "E5.1-En1",
+          "110",
+          "Stb",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "12k"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13a"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13a"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13b"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13b"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13c"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13c"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13d"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13d"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13e"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13e"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13f"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13f"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13g"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13g"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13h"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13h"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-rk1",
+          "Conti5",
+          "Geg",
+          "Entfall",
+          "Geg stellt Aufgaben"
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13k"
+      },
+      {
+        "data": [
+          "3",
+          "13a, 13b, 13c, 13d, 13e, 13f, 13g, 13h, 13k",
+          "G3.3-re1",
+          "237",
+          "Hbg",
+          "Entfall",
+          ""
+        ],
+        "cssClasses": [],
+        "cellClasses": {
+          "1": [
+            "cancelStyle"
+          ],
+          "2": [
+            "cancelStyle"
+          ],
+          "3": [
+            "cancelStyle"
+          ],
+          "4": [
+            "cancelStyle"
+          ]
+        },
+        "group": "13k"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "G1",
+          "",
+          "",
+          "San",
+          "",
+          "AG"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "G1"
+      },
+      {
+        "data": [
+          "3",
+          "KBereitschaft",
+          "",
+          "<span class=\"substMonitorSubstElem\">Lezi</span> (---)",
+          "Bch",
+          "",
+          "Bereitschaft G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KBereitschaft"
+      },
+      {
+        "data": [
+          "4",
+          "KBereitschaft",
+          "",
+          "<span class=\"substMonitorSubstElem\">Lezi</span> (---)",
+          "Hoi",
+          "",
+          "Bereitschaft G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KBereitschaft"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "KG01",
+          "",
+          "<span class=\"substMonitorSubstElem\">S131B</span> (---)",
+          "Nie",
+          "",
+          "Klausur Band G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KG01"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "KG02",
+          "",
+          "<span class=\"substMonitorSubstElem\">003</span> (---)",
+          "Pop",
+          "",
+          "Klausur Band G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KG02"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "KG03",
+          "",
+          "<span class=\"substMonitorSubstElem\">119</span> (---)",
+          "Sut",
+          "",
+          "Klausur Band G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KG03"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "KG04",
+          "",
+          "<span class=\"substMonitorSubstElem\">N12</span> (---)",
+          "Bde",
+          "",
+          "Klausur Band G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KG04"
+      },
+      {
+        "data": [
+          "3 - 4",
+          "KG05",
+          "",
+          "<span class=\"substMonitorSubstElem\">N24a</span> (---)",
+          "Kab",
+          "",
+          "Klausur Band G3.6"
+        ],
+        "cssClasses": [],
+        "cellClasses": {},
+        "group": "KG05"
+      }
+    ],
+    "lastUpdate": "17.09.2024 07:24:29",
+    "absentElements": [
+      {
+        "elementType": 1,
+        "elementId": 3728,
+        "elementName": "G1",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      },
+      {
+        "elementType": 1,
+        "elementId": 3838,
+        "elementName": "KBereitschaft",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1020,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          },
+          {
+            "type": "FROM_TO",
+            "startTime": 1025,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      },
+      {
+        "elementType": 1,
+        "elementId": 3858,
+        "elementName": "KG01",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      },
+      {
+        "elementType": 1,
+        "elementId": 3873,
+        "elementName": "KG02",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      },
+      {
+        "elementType": 1,
+        "elementId": 3888,
+        "elementName": "KG03",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      },
+      {
+        "elementType": 1,
+        "elementId": 3903,
+        "elementName": "KG04",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      },
+      {
+        "elementType": 1,
+        "elementId": 3918,
+        "elementName": "KG05",
+        "startUnit": null,
+        "endUnit": null,
+        "absences": [
+          {
+            "type": "FROM_TO",
+            "startTime": 935,
+            "endTime": 1110,
+            "isEvent": false,
+            "startUnit": null,
+            "endUnit": null
+          }
+        ]
+      }
+    ],
+    "affectedElements": {
+      "1": [
+        "06a",
+        "06b",
+        "06c",
+        "07a",
+        "07b",
+        "07c",
+        "07d",
+        "07oe",
+        "08c",
+        "09b",
+        "09ku",
+        "10b",
+        "11a",
+        "12a",
+        "12b",
+        "12c",
+        "12d",
+        "12e",
+        "12f",
+        "12g",
+        "12h",
+        "12k",
+        "13a",
+        "13b",
+        "13c",
+        "13d",
+        "13e",
+        "13f",
+        "13g",
+        "13h",
+        "13k",
+        "G1",
+        "KBereitschaft",
+        "KG01",
+        "KG02",
+        "KG03",
+        "KG04",
+        "KG05"
+      ],
+      "2": [
+        "Bde",
+        "Bch",
+        "Geg",
+        "Gri",
+        "Hac",
+        "Hoi",
+        "Kab",
+        "Krs",
+        "Kun",
+        "Mal",
+        "Mic",
+        "Moh",
+        "NN3",
+        "Nie",
+        "Pop",
+        "San",
+        "Slt",
+        "Sut",
+        "Smi",
+        "Stb",
+        "Win"
+      ]
+    },
+    "messageData": {
+      "messages": []
+    },
+    "weekDay": "Dienstag",
+    "regularFreeData": []
+  }
+}
