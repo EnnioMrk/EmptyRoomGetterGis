@@ -2,14 +2,24 @@
 
 Gets all the empty rooms for a period in the schhol "Gymnasium im Schloss"
 
-To install dependencies:
+## Installing
+#### 1. Install Bun
+Windows:
+```cmd
+powershell -c "irm bun.sh/install.ps1 | iex"
+```
+
+Linux & macOs
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
+#### 2. Install dependencies:
 ```bash
 bun install
 ```
 
-To run:
+#### Run:
 ```bash
-bun run index.js
+bun start
 ```
-
-This project was created using `bun init` in bun v1.1.22. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
