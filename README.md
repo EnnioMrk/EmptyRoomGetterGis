@@ -5,7 +5,7 @@ Gets all the empty rooms for a period in the schhol "Gymnasium im Schloss"
 ## Installing
 #### 1. Install Bun
 Windows:
-```cmd
+```bash
 powershell -c "irm bun.sh/install.ps1 | iex"
 ```
 
