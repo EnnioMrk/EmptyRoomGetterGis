@@ -1,13 +1,13 @@
-# empty_room
+# Empty Room Getter
+
+Gets all the empty rooms for a period in the schhol "Gymnasium im Schloss"
 
 To install dependencies:
-
 ```bash
 bun install
 ```
 
 To run:
-
 ```bash
 bun run index.js
 ```
